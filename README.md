@@ -1,7 +1,9 @@
 下载完项目：
+```
 cd my-project
 yarn
 ng serve
+```
 即可启动项目
 <p align="center">
   <a href="https://ng-alain.com">
